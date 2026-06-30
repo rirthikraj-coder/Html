@@ -1,49 +1,109 @@
 <!DOCTYPE html>
-<head>
-	<title>Student Registration</title>
-</head>
-<body style="background-color: Black;">
-	<h1 style="color: white;">
-		Summary
-	</h1>
-
-	<br><br>
-
-	<p style="color: white;">
-		Here you are registering for your college personal details to create an account.So kindly fill it with caution
-	</p>
-	<form>
+<html>
+	<head>
+		<title> 
+			Student Registration 
+		</title>
+	</head>
+	<body style="background-color: black;">
+		<h1 style="color: FF5F1F;">
+			Summary
+		</h1>
 		<p style="color: white;">
-			Name
+			Here you are going to fill out the form and give us your personal information for the future use from our side and will be infromed from us any time
 		</p>
-		<input type="text" placeholder="Enter your Name">
+		<form style="color:white;">
+			<label>
+				Name:
+			</label>
+			<input type="text" placeholder="Enter your Name">
 
-		<br><br>
+			<br><br>
 
-		<p style="color: white;">
-			Email
-		</p>
-		<input type="text" placeholder="Enter your Email">
+			<label>
+				Email:
+			<label>
+			<input type="email" placeholder="Enter your Email">
+			
+			<br><br>
 
-		<br><br>
+			<lanbel>
+				Age:
+			</label>
+			<input type="number" placeholder="Enter your Age">
 
-		<p style="color: white;">
-			Password
-		</p>
-		<input type="password" placeholder="Enter your password">
+			<br><br>
 
-		<br><br>
+			<label>
+				Password:
+			</label>
+			<input type="password" placeholder="Enter your password">
 
-		<p style="color: white;">
-			Confirm Password
-		</p>
-		<input type="password" placeholder="Enter the Confirm Password">
+			<br><br>
 
-		<br><br>
+			<label>
+				Confirm Password
+			</label>
+			<input type="password" placeholder="Enter the confirmed password">
 
-		<button style="color: purple;">
-			Submit
-		</button>
-		
-	</form>
-</body>
+			<br><br>
+
+			<label>
+				Gender:
+			</label>
+			<input type="radio" name="gender">
+			Male
+			<input type="radio" name="gender">
+			Female
+			<input type="radio" name="gender">
+			Other
+
+			<br><br>
+
+			<label> 
+				Select your Department
+			</label>
+				<select>
+					<option>Artificial Intelligence and Data Science</option>
+					<option>Computer Science and Engineering</option>
+					<option>Information Technology</option>
+					<option>Robotics</option>
+					<option>Mechatronics</option>
+					<option>Pharma</option>
+					<option>Bachelor of Business Administration</option>
+					<option>Master of Business Administration</option>
+					<option>Bachelor of Psychology</option>
+				</select>
+			<label>
+				Skills
+			</label>
+			<input type="checkbox">Html
+
+			<br>
+
+			<input type="checkbox">Python
+
+			<br>
+
+			<input type="checkbox">Java
+
+			<br><br>
+
+			<label>
+				About Yourself
+			</label>
+
+			<textarea rows="5" cols="10" placeholder="Tell us about Yourself"></textarea>
+
+			<br><br>
+
+			<button type="submit">
+				Register
+			</button>
+
+			<button type="reset">
+				Clear
+			</button>
+		</form>
+	</body>
+</html>
