@@ -1,9 +1,13 @@
 #name{
   color: red;
+  text-aligm: center;
 }
 h1{
   color: pink;
 }
 p{
   color: green;
+}
+.copy{
+  color: black;
 }
