@@ -1,3 +1,6 @@
+body{
+  background-color: blue;
+}
 h1{
   color: pink;
 }
@@ -10,7 +13,4 @@ p{
 #name{
   color: red;
   text-align: center;
-}
-body{
-  background-color: blue;
 }
