@@ -1,7 +1,3 @@
-#name{
-  color: red;
-  text-aligm: center;
-}
 h1{
   color: pink;
 }
@@ -10,4 +6,8 @@ p{
 }
 .copy{
   color: black;
+}
+#name{
+  color: red;
+  text-align: center;
 }
