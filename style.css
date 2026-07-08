@@ -7,7 +7,6 @@ h1{
 }
 p{
   color: green;
-  padding:20px;
 }
 .copy{
   color: black;
@@ -15,4 +14,6 @@ p{
 #name{
   color: red;
   text-align: center;
+  padding:20px;
+  border:2px solid black;
 }
