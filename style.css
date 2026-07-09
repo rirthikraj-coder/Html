@@ -15,6 +15,11 @@ p{
   height: 500px;
   border-radius: 20px;
 }
+.hide{
+  color: black;
+  text-align: center;
+  border: 2px solid black;
+}
 #name{
   color: red;
   text-align: center;
