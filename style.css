@@ -8,11 +8,11 @@ h1{
 p{
   color: green;
 }
-.copy{
+nav{
   color: black;
   border: 3px solid black;
-  width: 200px;
-  height: 500px;
+  width: 50px;
+  height: 70px;
   border-radius: 20px;
 }
 .hide{
