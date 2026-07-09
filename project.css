@@ -1,0 +1,28 @@
+body{
+  background-color: lightblue;
+  font-family: Times New Roman;
+}
+nav{
+  text-align: center;
+  border: 2px bold lime;
+  
+h1{
+  text-align: center;
+  border: 2px;
+  width: auto;
+  height: auto;
+  display: inline-block;
+}
+.title{
+  text-align: center;
+  color: green;
+}
+.copy{
+  text-aligh: center;
+  border: 2px solid purple;
+  margin: auto;
+}
+h2{
+  font-weight: bold;
+  text-align: center;
+}
