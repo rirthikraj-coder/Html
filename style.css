@@ -17,8 +17,8 @@ nav{
 .hide{
   color: black;
   text-align: center;
-  margin-left: 550;
-  margin-right: 550;
+  margin-left: 550px;
+  margin-right: 550px;
   border: 2px solid black;
 }
 #name{
