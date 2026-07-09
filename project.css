@@ -4,8 +4,8 @@ body{
 }
 nav{
   text-align: center;
-  border: 2px bold lime;
-  
+  border: 2px solid lime;
+}
 h1{
   text-align: center;
   border: 2px;
@@ -18,7 +18,7 @@ h1{
   color: green;
 }
 .copy{
-  text-aligh: center;
+  text-align: center;
   border: 2px solid purple;
   margin: auto;
 }
