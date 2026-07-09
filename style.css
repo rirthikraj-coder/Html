@@ -10,6 +10,10 @@ p{
 }
 .copy{
   color: black;
+  border: 3px solid black;
+  width: 200px;
+  height: 500px;
+  border-radius: 20px;
 }
 #name{
   color: red;
