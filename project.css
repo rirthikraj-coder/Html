@@ -7,7 +7,6 @@ nav{
   border: 2px solid lime;
 }
 h1{
-  text-align: center;
   border: 2px;
   width: auto;
   height: auto;
@@ -24,5 +23,4 @@ h1{
 }
 h2{
   font-weight: bold;
-  text-align: center;
 }
