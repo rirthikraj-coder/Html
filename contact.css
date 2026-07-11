@@ -16,7 +16,7 @@ body{
   display: none;
 }
 .redirect{
-  width: 50%;
+  width: 25%;
   height: 50%;
   border: 3px solid green;
 }
@@ -29,4 +29,9 @@ form{
   border: 3px solid black;
   width: 50%;
   height: 50%;
+  margin: 25%
+}
+button{
+  color: blue;
+  text-weight: bold;
 }
