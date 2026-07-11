@@ -21,7 +21,6 @@ body{
   width: 5%;
   height: 50%;
   border: 3px solid green;
-  border-radius: 5%;
 }
 form{
   text-align: center:
@@ -30,9 +29,9 @@ form{
   text-align: center;
   text-weight: bold;
   border: 3px solid black;
-  width: 50%;
+  width: 30%;
   height: 50%;
-  margin-left: 25%
+  margin-left: 35%
 }
 button{
   color: darkslateblue;
