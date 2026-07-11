@@ -1,0 +1,32 @@
+body{
+  text-family: Times New Roman;
+  background-color: yellow;
+}
+.copy{
+  color: black;
+  text-align: center;
+  border:2px solid purple;
+  width: 10px;
+  height: 5px;
+}
+.form{
+  font-weight: bold;
+}
+.none{
+  display: none;
+}
+.redirect{
+  width: 50%;
+  height: 50%;
+  border: 3px solid green;
+}
+form{
+  text-align: center:
+}
+.link{
+  text-align: center;
+  text-weight: bold;
+  border: 3px solid black;
+  width: 50%;
+  height: 50%;
+}
